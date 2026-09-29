@@ -1,0 +1,26 @@
+[
+  {
+    "id": "m-visita",
+    "titulo": "Explorador de Agências",
+    "descricao": "Marca a visita a 3 agências no mapa.",
+    "pontos": 30
+  },
+  {
+    "id": "m-cultura",
+    "titulo": "Mergulha na Cultura",
+    "descricao": "Lê a secção Cultura & RACE IT.",
+    "pontos": 20
+  },
+  {
+    "id": "m-quiz1",
+    "titulo": "Quiz RACE IT",
+    "descricao": "Completa o quiz sobre os valores RACE IT.",
+    "pontos": 40
+  },
+  {
+    "id": "m-servicos",
+    "titulo": "Conhece os Serviços",
+    "descricao": "Explora os serviços oferecidos pelo Ecobank.",
+    "pontos": 20
+  }
+]

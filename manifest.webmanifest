@@ -1,0 +1,13 @@
+{
+  "name": "Ecobank Explorer",
+  "short_name": "EBX Explorer",
+  "description": "Learning journey Ecobank São Tomé e Príncipe",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#0066B3",
+  "lang": "pt-ST",
+  "icons": []
+}

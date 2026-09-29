@@ -1,0 +1,46 @@
+:root {
+  /* Cores */
+  --blue-900:#003D73;
+  --blue-800:#004A82;
+  --blue-700:#005A9C;
+  --blue-600:#0066B3;
+  --blue-500:#1F83C9;
+  --blue-100:#D6E9F7;
+  --blue-50:#EAF3FB;
+
+  --green:#00A651;
+  --green-100:#D4F0E0;
+  --orange:#F58220;
+  --purple:#7B61FF;
+  --purple-100:#E9E4FF;
+  --gold:#E0A800;
+  --gold-100:#FFF3D6;
+
+  --text:#0F1E2E;
+  --text-2:#41566B;
+  --muted:#7A8899;
+  --border:#E2E8F0;
+  --bg:#F4F7FB;
+  --card:#FFFFFF;
+
+  /* Tipografia */
+  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+  /* Espaçamento */
+  --sp-1:4px; --sp-2:8px; --sp-3:12px; --sp-4:16px;
+  --sp-5:20px; --sp-6:24px; --sp-8:32px; --sp-10:40px;
+
+  /* Radius */
+  --r-sm:8px; --r-md:12px; --r-lg:16px; --r-xl:20px; --r-2xl:24px; --r-full:999px;
+
+  /* Sombras */
+  --sh-sm:0 1px 3px rgba(15,30,46,.06);
+  --sh-md:0 4px 12px rgba(15,30,46,.08);
+  --sh-lg:0 8px 24px rgba(15,30,46,.10);
+
+  /* Layout */
+  --header-h:64px;
+  --nav-h:72px;
+  --safe-top:env(safe-area-inset-top, 0px);
+  --safe-bottom:env(safe-area-inset-bottom, 0px);
+}

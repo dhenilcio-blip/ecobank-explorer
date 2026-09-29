@@ -1,0 +1,28 @@
+{
+  "cultura": {
+    "titulo": "A Nossa Cultura",
+    "descricao": "No Ecobank, a cultura organizacional é o motor que nos une em toda a África. Trabalhamos com foco no cliente, com ética e com o compromisso de transformar o setor financeiro em África."
+  },
+  "raceit": [
+    { "letra": "R", "nome": "Responsiveness", "descricao": "Respondemos com rapidez e eficácia às necessidades dos clientes." },
+    { "letra": "A", "nome": "Accountability", "descricao": "Assumimos responsabilidade pelos nossos atos e resultados." },
+    { "letra": "C", "nome": "Customer", "descricao": "O cliente está no centro de todas as nossas decisões." },
+    { "letra": "E", "nome": "Excellence", "descricao": "Procuramos a excelência em tudo o que fazemos." },
+    { "letra": "I", "nome": "Integrity", "descricao": "Agimos com honestidade e transparência." },
+    { "letra": "T", "nome": "Teamwork", "descricao": "Trabalhamos em equipa para alcançar objetivos comuns." }
+  ],
+  "servicos": {
+    "titulo": "Os Nossos Serviços",
+    "descricao": "O Ecobank São Tomé e Príncipe oferece soluções financeiras para particulares, empresas e instituições.",
+    "lista": [
+      "Contas à ordem",
+      "Poupança",
+      "Crédito pessoal",
+      "Crédito empresarial",
+      "Cartões de débito e crédito",
+      "Transferências nacionais e internacionais",
+      "Câmbios",
+      "Banca digital (Ecobank Mobile)"
+    ]
+  }
+}

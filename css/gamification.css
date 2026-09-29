@@ -1,0 +1,68 @@
+.progress {
+    background: #e6ebf0;
+    border-radius: 10px;
+    height: 10px;
+    overflow: hidden;
+    margin-top: 8px
+}
+
+.progress>span {
+    display: block;
+    height: 100%;
+    background: var(--ecb-green);
+    transition: width .4s ease
+}
+
+.badge {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+    padding: 14px;
+    border-radius: var(--radius);
+    background: #fff;
+    box-shadow: var(--shadow);
+    text-align: center;
+    opacity: .45;
+    filter: grayscale(.6);
+}
+
+.badge.earned {
+    opacity: 1;
+    filter: none
+}
+
+.badge .ico {
+    font-size: 2rem
+}
+
+.badge small {
+    font-size: .75rem;
+    color: var(--muted)
+}
+
+.quiz-option {
+    display: block;
+    width: 100%;
+    text-align: left;
+    padding: 12px 14px;
+    margin: 8px 0;
+    border: 2px solid var(--border);
+    border-radius: 10px;
+    background: #fff;
+    transition: .2s;
+}
+
+.quiz-option:hover {
+    border-color: var(--ecb-blue)
+}
+
+.quiz-option.correct {
+    border-color: var(--ecb-green);
+    background: #e7f6ee
+}
+
+.quiz-option.wrong {
+    border-color: #e74c3c;
+    background: #fdecea
+}

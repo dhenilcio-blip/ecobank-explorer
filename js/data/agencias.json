@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ag-central",
+    "nome": "Agência Central — São Tomé",
+    "endereco": "Av. Marginal 12 de Julho, São Tomé",
+    "lat": 0.3361,
+    "lng": 6.7303,
+    "telefone": "+239 222 2000",
+    "horario": "Seg–Sex 08h00–15h30",
+    "servicos": ["Conta", "Crédito", "Câmbios", "Empresas"]
+  },
+  {
+    "id": "ag-neves",
+    "nome": "Agência Neves",
+    "endereco": "Neves, Distrito de Lembá",
+    "lat": 0.3639,
+    "lng": 6.5478,
+    "telefone": "+239 222 2010",
+    "horario": "Seg–Sex 08h00–15h00",
+    "servicos": ["Conta", "Transferências"]
+  },
+  {
+    "id": "ag-trindade",
+    "nome": "Agência Trindade",
+    "endereco": "Trindade, Mé-Zóchi",
+    "lat": 0.2931,
+    "lng": 6.6773,
+    "telefone": "+239 222 2020",
+    "horario": "Seg–Sex 08h00–15h00",
+    "servicos": ["Conta", "Crédito"]
+  },
+  {
+    "id": "ag-porto",
+    "nome": "Agência Porto Alegre",
+    "endereco": "Porto Alegre, Caué",
+    "lat": 0.0319,
+    "lng": 6.5333,
+    "telefone": "+239 222 2030",
+    "horario": "Seg–Sex 08h00–15h00",
+    "servicos": ["Conta", "ATM"]
+  }
+]

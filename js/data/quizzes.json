@@ -1,0 +1,53 @@
+[
+  {
+    "id": "q-raceit",
+    "titulo": "Valores RACE IT",
+    "descricao": "Testa o que sabes sobre a cultura Ecobank.",
+    "pontos": 40,
+    "perguntas": [
+      {
+        "pergunta": "O que significa a letra 'R' em RACE IT?",
+        "opcoes": ["Responsiveness", "Reliability", "Respect", "Results"],
+        "correta": 0
+      },
+      {
+        "pergunta": "O que significa a letra 'A'?",
+        "opcoes": ["Agility", "Accountability", "Ambition", "Approach"],
+        "correta": 1
+      },
+      {
+        "pergunta": "O que significa a letra 'C'?",
+        "opcoes": ["Creativity", "Customer", "Commitment", "Communication"],
+        "correta": 1
+      },
+      {
+        "pergunta": "O 'IT' em RACE IT representa:",
+        "opcoes": ["Information Technology", "Integrity & Teamwork", "Innovation & Trust", "Internal Team"],
+        "correta": 1
+      }
+    ]
+  },
+  {
+    "id": "q-ecobank",
+    "titulo": "Ecobank — Noções Gerais",
+    "descricao": "Perguntas rápidas sobre o banco.",
+    "pontos": 30,
+    "perguntas": [
+      {
+        "pergunta": "Em que ano foi fundado o Ecobank?",
+        "opcoes": ["1985", "1988", "1990", "1995"],
+        "correta": 0
+      },
+      {
+        "pergunta": "O Ecobank está presente em quantos países africanos (aprox.)?",
+        "opcoes": ["10", "20", "35", "50"],
+        "correta": 2
+      },
+      {
+        "pergunta": "Qual é a cor principal da identidade do Ecobank?",
+        "opcoes": ["Verde", "Azul", "Vermelho", "Amarelo"],
+        "correta": 1
+      }
+    ]
+  }
+]

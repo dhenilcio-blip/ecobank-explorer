@@ -1,0 +1,7 @@
+[
+  { "id": "explorador", "nome": "Explorador", "icone": "🗺️", "descricao": "Visitaste 3 agências." },
+  { "id": "missionario", "nome": "Missionário", "icone": "🎯", "descricao": "Completaste 3 missões." },
+  { "id": "perfeito", "nome": "Perfeito", "icone": "💯", "descricao": "100% num quiz." },
+  { "id": "curioso", "nome": "Curioso", "icone": "🔍", "descricao": "Leste a cultura RACE IT." },
+  { "id": "veterano", "nome": "Veterano", "icone": "🎖️", "descricao": "Alcançaste o nível Ouro." }
+]

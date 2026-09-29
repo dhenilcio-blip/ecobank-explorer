@@ -1,0 +1,16 @@
+:root {
+    --ecb-blue: #0066B3;
+    --ecb-blue-dark: #004a82;
+    --ecb-blue-light: #e6f1fa;
+    --ecb-green: #00A651;
+    --ecb-orange: #F58220;
+    --ecb-gray: #5a6470;
+    --bg: #f5f7fa;
+    --card: #ffffff;
+    --text: #1e2a37;
+    --muted: #6b7785;
+    --border: #e2e8f0;
+    --radius: 14px;
+    --shadow: 0 4px 14px rgba(0, 40, 80, .08);
+    --header-h: 60px;
+}
